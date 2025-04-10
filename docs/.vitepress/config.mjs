@@ -5,9 +5,9 @@ import sidebar from './sideBarData.json'
 
 export default defineConfig({
   base: '/gcsj', 
-  head: [['link', { rel: 'icon' ,href: '/gcsj/favicon.ico' }]],
-  title: "Ding01ng's site",
-  description: "Ding01ng的笔记记录网站",
+  head: [['link', { rel: 'icon' ,href: '/gcsj/logo.svg' }]],
+  title: "大河飞剑",
+  description: "大河飞剑--无人机障碍物检测技术项目",
   cleanUrls: true, //从 URL 中删除 .html 后缀
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -18,7 +18,6 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: '笔记', link: '/笔记/' }
     ],
     search: {
       provider: 'local'
