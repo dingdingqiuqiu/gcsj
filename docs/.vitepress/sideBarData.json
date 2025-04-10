@@ -1,11 +1,11 @@
 [
   {
-    "text": "EN",
+    "text": "AI",
     "collapsed": true,
     "items": [
       {
-        "text": "资源收藏",
-        "link": "/笔记/EN/资源收藏"
+        "text": "VGG16",
+        "link": "/笔记/AI/VGG16"
       }
     ]
   },
@@ -20,12 +20,12 @@
     ]
   },
   {
-    "text": "AI",
+    "text": "EN",
     "collapsed": true,
     "items": [
       {
-        "text": "VGG16",
-        "link": "/笔记/AI/VGG16"
+        "text": "资源收藏",
+        "link": "/笔记/EN/资源收藏"
       }
     ]
   },
