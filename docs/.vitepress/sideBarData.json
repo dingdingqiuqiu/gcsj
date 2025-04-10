@@ -1,11 +1,11 @@
 [
   {
-    "text": "AI",
+    "text": "EN",
     "collapsed": true,
     "items": [
       {
-        "text": "VGG16",
-        "link": "/笔记/AI/VGG16"
+        "text": "资源收藏",
+        "link": "/笔记/EN/资源收藏"
       }
     ]
   },
@@ -16,6 +16,16 @@
       {
         "text": "电脑是怎么开机的",
         "link": "/笔记/CS/电脑是怎么开机的"
+      }
+    ]
+  },
+  {
+    "text": "AI",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "VGG16",
+        "link": "/笔记/AI/VGG16"
       }
     ]
   },
@@ -210,16 +220,6 @@
       {
         "text": "计网-综合实验6-企业级互联网",
         "link": "/笔记/Old/计网-综合实验6-企业级互联网"
-      }
-    ]
-  },
-  {
-    "text": "EN",
-    "collapsed": true,
-    "items": [
-      {
-        "text": "资源收藏",
-        "link": "/笔记/EN/资源收藏"
       }
     ]
   }
