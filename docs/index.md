@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 👉 了解我们
-      link: /笔记/
+      link: /笔记/了解我们/关于我们
     - theme: alt
       text: 📘 使用说明
-      link: https://github.com/dingdingqiuqiu/WebSite
+      link: /笔记/使用说明/1_安装
 
 features:
   - icon:
@@ -27,14 +27,14 @@ features:
       light: /test.svg
     title: 🚁 实时障碍检测
     details: 提供高精度的障碍检测支持，适配多种飞行环境
-    link: /笔记/检测原理说明
+    link: /笔记/目标检测/1_研究背景/
 
   - icon:
       dark: /support.svg
       light: /support.svg
     title: 💬 技术支持
     details: 一对一支持，快速响应问题反馈，确保项目顺利运行
-    link: /笔记/常见问题
+    link: /笔记/技术支持/联系我们
 
 ---
 
