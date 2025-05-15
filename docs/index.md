@@ -20,14 +20,14 @@ features:
       light: /soft_box.svg
     title: 🛠 软件下载
     details: 下载并配置我们的专用软件，快速开始使用完整服务
-    link: https://github.com/dingdingqiuqiu
+    link: https://github.com/BoBolilla/yolo-accident-detector
 
   - icon:
       dark: /test_bk.svg
       light: /test.svg
-    title: 🚁 实时障碍检测
-    details: 提供高精度的障碍检测支持，适配多种飞行环境
-    link: /笔记/目标检测/1_研究背景/
+    title: 🚁 系统实现
+    details: 深入了解我们高精度障碍检测的技术方案
+    link: /笔记/系统实现/1_目标检测/
 
   - icon:
       dark: /support.svg
